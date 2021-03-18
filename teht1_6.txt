@@ -1,0 +1,4 @@
+Secret message: "This is the secret message"
+password: basics
+
+password found from docker hub -page

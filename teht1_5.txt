@@ -1,0 +1,3 @@
+ubuntu: 38MB, alpine: 17.7MB
+
+secret message functionality is the same
