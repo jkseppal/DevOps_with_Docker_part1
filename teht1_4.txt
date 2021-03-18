@@ -1,0 +1,9 @@
+docker run -d -it --name buntu ubuntu
+
+docker exec -it buntu bash
+
+# apt-get update
+
+# apt get install curl
+
+# sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
