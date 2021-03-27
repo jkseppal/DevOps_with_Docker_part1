@@ -1,0 +1,4 @@
+Komennot:
+
+docker build . -t teht13
+
