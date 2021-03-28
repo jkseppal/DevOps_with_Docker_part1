@@ -2,3 +2,4 @@ Komennot:
 
 docker build . -t teht13
 
+docker run -p 8080:8080 teht13
